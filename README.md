@@ -3,7 +3,7 @@ sbd_mask
 这是思百达物联网科技（北京）有限公司 开源的一款轻量级cpu版实时口罩检测项目。  
 检测部分网络是centerface，高效的轻量级目标检测网络  
 centerface widerface测试集的精度：
-|easy|medium|hard|
+|easy set |medium set |hard set|
 -----|------|-----
 |93.2%|92.1%|87.3%|
 
