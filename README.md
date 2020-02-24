@@ -11,7 +11,15 @@ sbd_mask
  ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582529835.png)
  图片不知为啥不能看，不能看的点击链接，能看到原图
 
-图中左边是百度口罩检测sdk的检测结果，有图是思百达公司的口罩检测。
+图中左边是百度口罩检测sdk的检测结果，右图是思百达公司的口罩检测。
+
+里面有百度paddlehub的代码，
+调用方法：
+python demo_baidu.py
+
+调用思百达的口罩检测：
+
+python demo_sbd.py
 
 我们还自研了轻量级人脸检测算法，精度超越centerface，会在后续继续开源出来。
 感谢大家的支持!感觉好用，还请给个star!您的支持，是我们前进的动力!
