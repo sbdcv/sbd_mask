@@ -1,8 +1,8 @@
 # sbd_mask
 sbd_mask
-这是思百达物联网科技（北京）有限公司 开源的一款轻量级cpu版实时口罩检测项目。
-检测部分是centerface
-centerface widerface测试机的精度：
+这是思百达物联网科技（北京）有限公司 开源的一款轻量级cpu版实时口罩检测项目。  
+检测部分网络是centerface，高效的轻量级目标检测网络  
+centerface widerface测试集的精度：
 |easy|medium|hard|
 -----|------|-----
 |93.2%|92.1%|87.3%|
@@ -27,8 +27,8 @@ centerface widerface测试机的精度：
 
 项目中有百度paddlehub口罩检测的代码:
 依赖项：
-pip install --upgrade paddlehub -i https://pypi.tuna.tsinghua.edu.cn/simple
-pip install paddlepaddle
+pip install --upgrade paddlehub -i https://pypi.tuna.tsinghua.edu.cn/simple  
+pip install paddlepaddle  
 调用方法：
 python demo_baidu.py
 
