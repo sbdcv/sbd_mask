@@ -6,9 +6,9 @@ sbd_mask
  速度是百度的两倍多左右
  精度也远超百度paddlehub的口罩检测，
  下面是效果对比图：
- ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582529835.png)
- ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582530011.png)
- ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582529835.png)
+ ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582529835.png)
+ ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582530011.png)
+ ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582529835.png)
  图片不知为啥不能看，不能看的点击链接，能看到原图
 
 图中左边是百度口罩检测sdk的检测结果，右图是思百达公司的口罩检测。
