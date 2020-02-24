@@ -7,4 +7,6 @@ sbd_mask
  精度也远超百度paddlehub的口罩检测，
  下面是效果对比图：
  
- 
+ ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582530113.png)
+ ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582530011.png)
+ ![image](https://github.com/sbdcv/sbd_mask/tree/master/images/1582529835.png)
