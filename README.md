@@ -30,12 +30,11 @@ centerface widerface测试集的精度：
 pip install --upgrade paddlehub -i https://pypi.tuna.tsinghua.edu.cn/simple  
 pip install paddlepaddle  
 调用方法：  
-python demo_baidu.py
-
-依赖项：  
-python-opencv 4.x  
+python demo_baidu.py  
 
 调用思百达的口罩检测：  
+依赖项：  
+python-opencv 4.x    
 
 python demo_sbd.py  
 
