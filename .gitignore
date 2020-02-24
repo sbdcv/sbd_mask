@@ -1,0 +1,7 @@
+*.pyc
+*.h5
+data/*
+!data/demo
+*.caffemodel
+paper/*
+!paper/paper.pdf
