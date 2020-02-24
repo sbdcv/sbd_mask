@@ -5,7 +5,7 @@ sbd_mask
 centerface widerface测试机的精度：
 |easy|medium|hard|
 -----|------|-----
-|93.2|92.1|87.3|
+|93.2%|92.1%|87.3%|
 
 口罩分类网络是我们自己寻找的数据集，用mobilenetv2训练得到，以下是准确率:
 
