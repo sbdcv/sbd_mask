@@ -32,6 +32,9 @@ pip install paddlepaddle
 调用方法：
 python demo_baidu.py
 
+依赖项：
+python-opencv 4.x
+
 调用思百达的口罩检测：
 
 python demo_sbd.py
