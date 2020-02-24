@@ -9,11 +9,14 @@ sbd_mask
  ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582529835.png)
  ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582530011.png)
  ![image](https://github.com/sbdcv/sbd_mask/raw/master/images/1582529835.png)
- 图片不知为啥不能看，不能看的点击链接，能看到原图
 
-图中左边是百度口罩检测sdk的检测结果，右图是思百达公司的口罩检测。
+图中左边是百度口罩检测sdk的检测结果，右图是思百达公司的口罩检测，
+可以看到误检和漏检，我们研发的都比百度的少。
 
-里面有百度paddlehub的代码，
+项目中有百度paddlehub口罩检测的代码:
+依赖项：
+pip install --upgrade paddlehub -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install paddlepaddle
 调用方法：
 python demo_baidu.py
 
